@@ -7,7 +7,7 @@ Es beinhaltet Funktionen / Algorithmen zum Download, Entpacken und zur Prozessie
 - Prozessierung der entpackten Radardaten (logarithmische Skalierung)
 - Speichern und Darstellung des Ergebnis (ohne Ausreißer und Extremwerte)
 - Überprüfung, ob die Dateien schon vorhanden sind (Überspringen der jeweiligen Schritte)
-- Programm über IDE und Kommandozeile ausführbar
+- Programm über IDE und Kommandozeile ausführbar (main.py)
 
 ## Environment
 Über Anaconda kann das Environment für dieses Projekt erstellt werden. Dort werden alle Pakete und Abhängigkeiten automatisch installiert (Anacononda Prompt). 
