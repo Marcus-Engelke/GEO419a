@@ -10,4 +10,7 @@ Es beinhaltet Funktionen / Algorithmen zum Download, Entpacken und zur Prozessie
 - Programm über IDE und Kommandozeile ausführbar
 
 # Environment
+Über Anaconda kann das Environment für dieses Projekt erstellt werden. Dort werden alle Pakete und Abhängigkeiten automatisch installiert (Anacononda Prompt). 
+
+```conda env create -f environment.yml```
 
