@@ -9,8 +9,12 @@ Es beinhaltet Funktionen / Algorithmen zum Download, Entpacken und zur Prozessie
 - Überprüfung, ob die Dateien schon vorhanden sind (Überspringen der jeweiligen Schritte)
 - Programm über IDE und Kommandozeile ausführbar
 
-# Environment
+## Environment
 Über Anaconda kann das Environment für dieses Projekt erstellt werden. Dort werden alle Pakete und Abhängigkeiten automatisch installiert (Anacononda Prompt). 
 
 ```conda env create -f environment.yml```
 
+## Start Programm
+Das Programm kann sowohl über eine IDE als auch über die Kommandozeile ausgeführt werden. Folgend ein Beispielaufruf für die Kommandozeile:
+
+```python main.py H:\Radar``` (Übergabe des Speicherorts ist hier direkt möglich, aber nicht nötig)
