@@ -15,6 +15,6 @@ Es beinhaltet Funktionen / Algorithmen zum Download, Entpacken und zur Prozessie
 ```conda env create -f environment.yml```
 
 ## Start Programm
-Das Programm kann sowohl über eine IDE als auch über die Kommandozeile ausgeführt werden. Folgend ein Beispielaufruf für die Kommandozeile:
+Das Programm kann sowohl über eine IDE als auch über die Kommandozeile ausgeführt werden. Folgend ein Beispielaufruf für die Kommandozeile der Hauptfunktion main.py:
 
 ```python main.py H:\Radar``` (Übergabe des Speicherorts ist hier direkt möglich, aber nicht nötig)
